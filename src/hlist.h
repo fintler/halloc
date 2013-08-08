@@ -16,7 +16,7 @@
 #define _LIBP_HLIST_H_
 
 #include <assert.h>
-#include "macros.h"  /* inline */
+#include "macros.h"
 
 /*
  *	weak double-linked list w/ tail sentinel
