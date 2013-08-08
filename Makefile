@@ -1,4 +1,4 @@
-CFLAGS = -I. -ansi -Wall
+CFLAGS = -I. -Wall
 
 LIBNAME = libhalloc.a
 OBJS    = src/halloc.o
